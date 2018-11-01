@@ -10,5 +10,5 @@ npm start
 # transpile and test
 npm test
 # autolint code
-npm tslint
+npm run-script tslint
 ```
