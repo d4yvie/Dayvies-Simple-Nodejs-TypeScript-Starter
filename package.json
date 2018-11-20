@@ -2,7 +2,7 @@
   "name": "Dayvies-Simple-TypeScript-Starter",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "build/server.js",
   "scripts": {
     "start": "tsc && node build/server.js",
     "test": "tsc && mocha --timeout 4000 build/test",
